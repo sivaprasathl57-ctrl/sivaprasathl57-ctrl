@@ -1,4 +1,5 @@
-<img align = "center" alt="Coding" src="https://github.com/sivaprasathl57-ctrl/Siva-Prasath-L/blob/5122811013b085fac70854a57f200874810893ca/woman-is-working-computer-with-words-code-screen_1156615-7717.avif"><h1 align="center">Hi 👋, I'm Siva Prasath L</h1>
+<img align = "center" alt="Coding" src="https://github.com/sivaprasathl57-ctrl/Siva-Prasath-L/blob/057d9cf689cf9de5f18150d296536176d2eb358d/Screenshot%202026-01-21%20220226.png">
+<h1 align="center">Hi 👋, I'm Siva Prasath L</h1>
 
 <img align = "right" alt="Coding" width="400" src="https://github.com/sivaprasathl57-ctrl/Siva-Prasath-L/blob/5122811013b085fac70854a57f200874810893ca/woman-is-working-computer-with-words-code-screen_1156615-7717.avif">
 
