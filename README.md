@@ -35,13 +35,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sivaprasathl57-ctrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sivaprasath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-## 🏆 GitHub Trophies
-
-### ✍️ Random Dev Quote
+<img height="180em" src="https://streak-stats.demolab.com?user=sivaprasath&theme=tokyonight"/>
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sivaprasathl57-ctrl&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📈 Contribution Graph
+[![Siva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sivaprasath&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sivaprasathl57-ctrl&icon=0&color=0)](https://visitcount.itsvg.in)
