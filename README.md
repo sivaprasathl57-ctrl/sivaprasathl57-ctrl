@@ -36,7 +36,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sivaprasath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=sivaprasathl57-ctrl&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
