@@ -145,11 +145,13 @@
 
 <div align="center">
 
-![snake gif](https://github.com/sivaprasathl57-ctrl/sivaprasathl57-ctrl/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sivaprasathl57-ctrl/sivaprasathl57-ctrl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sivaprasathl57-ctrl/sivaprasathl57-ctrl/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/sivaprasathl57-ctrl/sivaprasathl57-ctrl/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
-
-> ⚙️ *To enable the snake, add a GitHub Action workflow — I can generate it for you on request.*
 
 ---
 
