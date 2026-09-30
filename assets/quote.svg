@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 90" width="100%" height="90">
+  <defs>
+    <linearGradient id="qBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0e131b"/>
+      <stop offset="100%" stop-color="#090c10"/>
+    </linearGradient>
+    <linearGradient id="qBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity="0.6"/>
+      <stop offset="50%" stop-color="#1f2937" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#ef4444" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    .quote-text { font-family: 'JetBrains Mono', 'Fira Code', monospace; font-size: 13.5px; fill: #e2e8f0; }
+    .author-text { font-family: 'Inter', -apple-system, sans-serif; font-size: 11.5px; fill: #ef4444; font-weight: 600; }
+  </style>
+
+  <rect width="720" height="90" rx="10" fill="url(#qBg)"/>
+  <rect width="720" height="90" rx="10" fill="none" stroke="url(#qBorder)" stroke-width="1.2"/>
+
+  <!-- Left Accent Bar -->
+  <rect x="0" y="15" width="3.5" height="60" rx="2" fill="#ef4444"/>
+
+  <!-- Terminal Quote mark -->
+  <text x="32" y="38" fill="#ef4444" font-size="28" font-family="'JetBrains Mono', monospace" opacity="0.4">“</text>
+
+  <!-- Quote Content -->
+  <text x="56" y="40" class="quote-text">
+    The best defense is understanding the offense — finding vulnerabilities
+  </text>
+  <text x="56" y="58" class="quote-text">
+    before malicious actors do.
+  </text>
+
+  <!-- Author Tag -->
+  <text x="685" y="72" text-anchor="end" class="author-text">
+    — SIVA PRASATH L // CYBERSECURITY &amp; ETHICAL HACKING
+  </text>
+</svg>
