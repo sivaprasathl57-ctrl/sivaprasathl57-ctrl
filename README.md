@@ -118,7 +118,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,html,css,java&theme=dark"
-         width="200"
+         width="250"
          alt="Programming & Frontend" />
   </a>
 </p>
@@ -127,32 +127,26 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark"
-         width="160"
+         width="200"
          alt="Databases" />
   </a>
 </p>
 
 <p align="center"><b>Cybersecurity & Penetration Testing Tools</b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0a0a0a"
-       height="26" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=111111"
-       height="26" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0a0a0a"
-       height="26" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-005571?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a"
-       height="26" alt="Nmap" />
-  <img src="https://img.shields.io/badge/THC_Hydra-DC2626?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0a0a0a"
-       height="26" alt="THC Hydra" />
-  <img src="https://img.shields.io/badge/John_the_Ripper-4A154B?style=for-the-badge&logo=keycdn&logoColor=white&labelColor=0a0a0a"
-       height="26" alt="John the Ripper" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0a0a0a" height="30" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=111111" height="30" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0a0a0a" height="30" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-005571?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" height="30" alt="Nmap" />
+  <img src="https://img.shields.io/badge/THC_Hydra-DC2626?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0a0a0a" height="30" alt="THC Hydra" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-4A154B?style=for-the-badge&logo=keycdn&logoColor=white&labelColor=0a0a0a" height="30" alt="John the Ripper" />
 </p>
 
 <p align="center"><b>Operating System & Environment</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,kali,git,github,bash&theme=dark"
-         width="220"
+         width="250"
          alt="Operating Systems & Environment" />
   </a>
 </p>
