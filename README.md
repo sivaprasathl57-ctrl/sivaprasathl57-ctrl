@@ -1,66 +1,50 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
+<!-- ============ HEADER (animated: matrix rain · glitch title · radar) ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:7f1d1d,100:ef4444&height=230&section=header&text=Siva%20Prasath%20L&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ethical%20Hacker%20%7C%20VAPT%20%7C%20Application%20Security&descAlignY=60&descSize=18" width="100%" alt="Siva Prasath L Header" />
+  <img src="assets/header.svg" width="100%" alt="Siva Prasath L" />
 </p>
 
 <p align="center">
   <a href="https://github.com/sivaprasathl57-ctrl">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=650&height=42&lines=Hi%20there!%20I'm%20Siva%20Prasath%20L%20%F0%9F%91%8B;Cybersecurity%20Professional%20%26%20Ethical%20Hacker%20%F0%9F%9B%A1%EF%B8%8F;Focus%20on%20VAPT%20%26%20App%20Security%20%F0%9F%94%8D;Building%20Resilient%20Systems%20%26%20Hunting%20Bugs%20%E2%9A%A1" width="100%" style="max-width: 650px;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=EF4444&center=true&vCenter=true&width=560&height=34&lines=Hi+there!+I'm+Siva+Prasath+L+%F0%9F%91%8B;Cybersecurity+Professional+%26+Ethical+Hacker+%F0%9F%9B%A1%EF%B8%8F;Focus+on+VAPT+%26+App+Security+%F0%9F%94%8D;Building+Resilient+Systems+%26+Hunting+Bugs+%E2%9A%A1" alt="Typing" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/siva-prasath-l-b80843344/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-  </a>
-  <a href="https://sivaprasath.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
-  </a>
-  <a href="mailto:sivaprasathl57@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-  </a>
-  <a href="https://github.com/sivaprasathl57-ctrl" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
-  </a>
+  <a href="https://www.linkedin.com/in/siva-prasath-l-b80843344/"><img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" height="26" alt="LinkedIn" /></a>
+  <a href="https://sivaprasath.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" height="26" alt="Portfolio" /></a>
+  <a href="mailto:sivaprasathl57@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" height="26" alt="Email" /></a>
+  <a href="https://github.com/sivaprasathl57-ctrl"><img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" height="26" alt="GitHub" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sivaprasathl57-ctrl&label=VIEWS&color=dc2626&style=for-the-badge" height="26" alt="Views" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sivaprasathl57-ctrl&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
-</p>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<!-- ===================== ABOUT ===================== -->
+<!-- ============ ABOUT ============ -->
 <h2 align="center">⚡ About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=620&height=28&lines=Securing+the+digital+frontier.;Ethical+hacker.;Lifelong+learner." width="100%" style="max-width: 620px;" alt="Typing Quote" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="190" style="border-radius:10px" alt="coding" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+  Hey! I'm <b>Siva Prasath L</b>, a <b>3rd Year Cyber Security student</b> at <b>Sri Shakthi Institute of Engineering and Technology</b>, Coimbatore, India.<br />
+  🛡️ Ethical hacking & securing <b>web / mobile apps</b> &nbsp;·&nbsp; 🔍 Finding vulnerabilities & real-world attack vectors<br />
+  📚 Always learning &nbsp;·&nbsp; ⚖️ Legal & professional standards only &nbsp;·&nbsp; 🎯 Helping orgs reduce risk & protect user data
 </p>
 
 <p align="center">
-  Hey! I'm <b>Siva Prasath L</b>, a passionate <b>3rd Year Cyber Security student</b> at <b>Sri Shakthi Institute of Engineering and Technology</b> based in <b>Coimbatore, India</b>.<br /><br />
-  🛡️ <b>Cybersecurity professional</b> with a strong focus on ethical hacking and securing web & mobile applications.<br />
-  🔍 Work centers on <b>identifying vulnerabilities</b>, understanding real-world attack vectors, and practical remediation.<br />
-  📚 Committed to continuous learning in the rapidly evolving cybersecurity landscape.<br />
-  ⚖️ Adheres strictly to legal and professional standards.<br />
-  🎯 <b>Goal:</b> Help organizations reduce risk, protect user data, and build resilient systems.
+  <img src="https://img.shields.io/badge/Status-Active_Learner_%26_Security_Researcher-111111?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/Degree-Cyber_Security_(3rd_Year)-DC2626?style=flat-square" alt="" />
+  <img src="https://img.shields.io/badge/Focus-Ethical_Hacking_%26_VAPT-111111?style=flat-square" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Active_Learner_%26_Security_Researcher-111111?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Degree-Cyber_Security_(3rd_Year)-DC2626?style=flat-square" alt="Degree" />
-  <img src="https://img.shields.io/badge/Focus-Ethical_Hacking_%26_VAPT-111111?style=flat-square" alt="Focus" />
+  <img src="assets/quote.svg" width="70%" alt="Quote" />
 </p>
 
-<p align="center">
-  <b>Philosophy:</b> <i>"The best defense is understanding the offense — finding vulnerabilities before malicious actors do!"</i>
-</p>
-
-<!-- ===================== INTERACTIVE: TERMINAL ===================== -->
+<!-- ============ INTERACTIVE TERMINAL ============ -->
 <h2 align="center">💻 Interactive Terminal</h2>
-<p align="center"><sub>👇 Click a command to run it</sub></p>
+<p align="center"><sub>👇 click a command to run it</sub></p>
 
 <details>
 <summary><b><code>$ whoami</code></b></summary>
@@ -89,11 +73,16 @@ siva-prasath-l
 </details>
 
 <details>
-<summary><b><code>$ ls ~/interests</code></b></summary>
+<summary><b><code>$ nmap -sV --script skills localhost</code></b></summary>
 
 ```text
-ethical-hacking/   web-security/   mobile-security/   vapt/
-python/            linux/          network-defense/   owasp-top-10/
+PORT      STATE  SERVICE            VERSION
+22/tcp    open   ethical-hacking    advanced-beginner → pro
+80/tcp    open   web-app-security   OWASP Top 10
+443/tcp   open   mobile-security    Android / API testing
+8080/tcp  open   vapt               recon → exploit → report
+5000/tcp  open   python-automation  scripts, tooling, ML
+9999/tcp  open   linux              Kali · Bash · Hardening
 ```
 </details>
 
@@ -103,29 +92,28 @@ python/            linux/          network-defense/   owasp-top-10/
 ```text
 [sudo] password for recruiter: ********
 Access granted ✔
-
 Open to: internships · placements · security research · collaboration
 Reach me → sivaprasathl57@gmail.com
 ```
 </details>
 
-<!-- ===================== PROJECTS ===================== -->
-<h2 align="center">🚀 Featured Project Spotlight</h2>
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<table width="100%" border="0" align="center">
+<!-- ============ PROJECTS ============ -->
+<h2 align="center">🚀 Projects</h2>
+
+<table align="center" width="100%">
   <tr>
-    <td align="center" style="padding: 22px;">
-      <h3>NEUROVEIL — Cybercrime Investigation AI</h3>
-      <p><i>An advanced AI-powered investigation system featuring graph-based fraud network analysis, ML anomaly detection, automated investigation workflows, and real-time transaction tracing to help organizations mitigate cyber risks.</i></p>
-      <br />
-      <p>
-        <a href="https://sivaprasath.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Portfolio-Visit%20Platform-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Portfolio" />
-        </a>
-        <a href="https://github.com/sivaprasathl57-ctrl/NEUROVEIL" target="_blank">
-          <img src="https://img.shields.io/badge/Source%20Code-View%20Repository-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
-        </a>
-      </p>
+    <td align="center" width="50%">
+      <h4>🧠 NEUROVEIL</h4>
+      <sub><i>Cybercrime investigation AI — graph-based fraud network analysis, ML anomaly detection, automated workflows & real-time transaction tracing.</i></sub><br /><br />
+      <a href="https://github.com/sivaprasathl57-ctrl/NEUROVEIL"><img src="https://img.shields.io/badge/Source-Repository-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" height="24" alt="Source" /></a>
+      <a href="https://sivaprasath.vercel.app"><img src="https://img.shields.io/badge/Live-Portfolio-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" height="24" alt="Live" /></a>
+    </td>
+    <td align="center" width="50%">
+      <h4>🎙️ Voice-Triggered Firewall</h4>
+      <sub><i>Linux security & automation — control firewall rules with voice commands.</i></sub><br /><br />
+      <a href="https://github.com/sivaprasathl57-ctrl/Voice-Triggered-Firewall-Control"><img src="https://img.shields.io/badge/Source-Repository-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" height="24" alt="Source" /></a>
     </td>
   </tr>
 </table>
@@ -140,68 +128,34 @@ flowchart LR
     A --> D[ML Anomaly Detection]
     C --> E{Risk Score}
     D --> E
-    E -->|High| F[Auto Investigation Workflow]
+    E -->|High| F[Auto Investigation]
     E -->|Low| G[Monitor]
-    F --> H[Real-time Transaction Tracing]
+    F --> H[Real-time Tracing]
     H --> I[Investigator Report]
     style E fill:#ef4444,color:#fff,stroke:#7f1d1d
     style F fill:#7f1d1d,color:#fff
 ```
 </details>
 
-<table width="100%" border="0" align="center">
-  <tr>
-    <td width="50%" align="center" style="padding: 14px;">
-      <h4>🛡️ Security Automation</h4>
-      <p>
-        <a href="https://github.com/sivaprasathl57-ctrl/Voice-Triggered-Firewall-Control" target="_blank"><b>Voice-Triggered Firewall</b></a><br />
-        <sub>Linux Security & Automation</sub>
-      </p>
-    </td>
-    <td width="50%" align="center" style="padding: 14px;">
-      <h4>🔍 Active Deep Dives</h4>
-      <p>
-        <b>VAPT & Vulnerability Remediation</b><br />
-        <sub>Ethical Hacking & Penetration Testing</sub>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!-- ===================== SKILLS ===================== -->
+<!-- ============ SKILLS ============ -->
 <h2 align="center">🧰 Tech Stack & Arsenal</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=700&color=F87171&center=true&vCenter=true&width=560&height=26&lines=nmap+-sV+target;burpsuite+--intercept;hydra+-L+users.txt+-P+pass.txt;python3+exploit_poc.py;wireshark+-i+eth0" alt="Tool Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2200&pause=600&color=F87171&center=true&vCenter=true&width=480&height=24&lines=nmap+-sV+target;burpsuite+--intercept;hydra+-L+users.txt+-P+pass.txt;python3+poc.py;wireshark+-i+eth0" alt="" />
 </p>
 
-<p align="center"><b>Programming & Frontend</b></p>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,html,css,java&theme=dark" width="250" alt="Programming & Frontend" /></a>
+  <img src="https://skillicons.dev/icons?i=py,html,css,java,mysql,postgres,mongodb,linux,kali,git,github,bash&theme=dark&perline=12" width="420" alt="Skills" />
 </p>
 
-<p align="center"><b>Database Systems</b></p>
 <p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" width="200" alt="Databases" /></a>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white&labelColor=0a0a0a" alt="Burp" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white&labelColor=111111" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white&labelColor=0a0a0a" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-005571?style=flat-square&logo=target&logoColor=white&labelColor=0a0a0a" alt="Nmap" />
+  <img src="https://img.shields.io/badge/THC_Hydra-DC2626?style=flat-square&logo=gnubash&logoColor=white&labelColor=0a0a0a" alt="Hydra" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-4A154B?style=flat-square&logo=keycdn&logoColor=white&labelColor=0a0a0a" alt="John" />
 </p>
-
-<p align="center"><b>Operating System & Environment</b></p>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,kali,git,github,bash&theme=dark" width="250" alt="Operating Systems & Environment" /></a>
-</p>
-
-<details open>
-<summary><b>🕵️ Cybersecurity & Penetration Testing Tools (click to collapse)</b></summary>
-<br />
-<p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0a0a0a" height="30" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=111111" height="30" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0a0a0a" height="30" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Nmap-005571?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" height="30" alt="Nmap" />
-  <img src="https://img.shields.io/badge/THC_Hydra-DC2626?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0a0a0a" height="30" alt="THC Hydra" />
-  <img src="https://img.shields.io/badge/John_the_Ripper-4A154B?style=for-the-badge&logo=keycdn&logoColor=white&labelColor=0a0a0a" height="30" alt="John the Ripper" />
-</p>
-</details>
 
 <details>
 <summary><b>🗺️ Click to view my skill map</b></summary>
@@ -235,82 +189,56 @@ mindmap
 ```
 </details>
 
-<!-- ===================== STATS ===================== -->
-<h2 align="center">📊 GitHub Analytics & Activity</h2>
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<!-- ============ STATS ============ -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=sivaprasathl57-ctrl&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sivaprasathl57-ctrl&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sivaprasathl57-ctrl&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8&hide_border=false" height="150" alt="Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sivaprasathl57-ctrl&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" height="150" alt="Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivaprasathl57-ctrl&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sivaprasathl57-ctrl&theme=blood&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="400" alt="Streak" />
 </p>
 
 <details>
-<summary><b>📈 Click to view animated activity graph</b></summary>
+<summary><b>📈 Click for activity graph</b></summary>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivaprasathl57-ctrl&bg_color=0a0a0a&color=ef4444&line=dc2626&point=ffffff&area=true&area_color=ef4444&hide_border=true&radius=8" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sivaprasathl57-ctrl&bg_color=0a0a0a&color=ef4444&line=dc2626&point=ffffff&area=true&area_color=ef4444&hide_border=true&height=250&radius=8" width="85%" alt="Activity" />
 </p>
 </details>
 
 <details>
-<summary><b>🏆 Click to view trophies</b></summary>
+<summary><b>🏆 Click for trophies</b></summary>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sivaprasathl57-ctrl&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sivaprasathl57-ctrl&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="85%" alt="Trophies" />
 </p>
 </details>
-
-<p align="center">
-  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Cybersecurity Quote" />
-</p>
 
 <h2 align="center">🐍 Contribution Journey</h2>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="85%" alt="Snake" />
 </p>
 
-<!-- ===================== CONNECT ===================== -->
-<h2 align="center">🤝 Let's Connect & Collaborate</h2>
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<!-- ============ CONNECT ============ -->
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1200&color=EF4444&center=true&vCenter=true&width=700&height=30&lines=Vulnerability+research?+Let's+talk.;Application+security?+Let's+build.;Internships+%26+placements?+My+inbox+is+open." alt="Connect Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=640&height=28&lines=Vulnerability+research%3F+Let's+talk.;Application+security%3F+Let's+build.;Internships+%26+placements%3F+My+inbox+is+open." alt="" />
 </p>
 
-<table border="0" align="center">
-  <tr>
-    <td align="center" width="220" style="padding: 16px;">
-      <a href="https://www.linkedin.com/in/siva-prasath-l-b80843344/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-      </a>
-      <br />
-      <sub><b>Professional Network</b></sub>
-    </td>
-    <td align="center" width="220" style="padding: 16px;">
-      <a href="https://sivaprasath.vercel.app" target="_blank">
-        <img src="https://skillicons.dev/icons?i=vercel" width="60" height="60" alt="Portfolio" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
-      </a>
-      <br />
-      <sub><b>Personal Portfolio</b></sub>
-    </td>
-    <td align="center" width="220" style="padding: 16px;">
-      <a href="mailto:sivaprasathl57@gmail.com">
-        <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
-        <br /><br />
-        <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-      </a>
-      <br />
-      <sub><b>Direct Inquiries</b></sub>
-    </td>
-  </tr>
-</table>
-
-<!-- ===================== ANIMATED FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ef4444,50:7f1d1d,100:0a0a0a&height=140&section=footer&reversal=true&animation=twinkling" width="100%" alt="Footer" />
+  <a href="https://www.linkedin.com/in/siva-prasath-l-b80843344/"><img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://sivaprasath.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" width="42" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sivaprasathl57@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/sivaprasathl57-ctrl"><img src="https://skillicons.dev/icons?i=github" width="42" alt="GitHub" /></a>
+</p>
+
+<!-- ============ FOOTER (animated waves) ============ -->
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Footer" />
 </p>
