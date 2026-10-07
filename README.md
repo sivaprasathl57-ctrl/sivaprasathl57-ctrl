@@ -117,14 +117,14 @@
 <p align="center"><b>Programming & Frontend</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,java&theme=dark" width="100%" style="max-width: 100px;" alt="Programming & Frontend" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,java&theme=dark" width="100%" style="max-width: 320px;" alt="Programming & Frontend" />
   </a>
 </p>
 
 <p align="center"><b>Database Systems</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" width="100%" style="max-width: 100px;" alt="Databases" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" width="100%" style="max-width: 320px;" alt="Databases" />
   </a>
 </p>
 
@@ -141,7 +141,7 @@
 <p align="center"><b>Operating System & Environment</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,kali,git,github,bash&theme=dark" width="100%" style="max-width: 280px;" alt="Operating Systems & Environment" />
+    <img src="https://skillicons.dev/icons?i=linux,kali,git,github,bash&theme=dark" width="100%" style="max-width: 320px;" alt="Operating Systems & Environment" />
   </a>
 </p>
 
