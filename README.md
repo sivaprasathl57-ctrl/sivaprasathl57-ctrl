@@ -1,6 +1,6 @@
 <!-- ============ HEADER (animated: matrix rain · glitch title · radar) ============ -->
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Siva Prasath L" />
+  <img src="assets/header.svg" width="150%" alt="Siva Prasath L" />
 </p>
 
 <p align="center">
