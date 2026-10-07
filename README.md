@@ -117,7 +117,7 @@
 <p align="center"><b>Programming & Frontend</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,html,css,java&theme=dark" width="100%" style="max-width: 130px;" alt="Programming & Frontend" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,java&theme=dark" width="100%" style="max-width: 100px;" alt="Programming & Frontend" />
   </a>
 </p>
 
